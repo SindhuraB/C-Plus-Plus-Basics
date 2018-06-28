@@ -12,7 +12,7 @@ Programs are further explained in their respective files.
 ## Sum of Series Program
 Calculates the sum of a series using the formula 1/N+ 2/(N-1) + ... N/1, where N is user's input.
 
-####To Use
+#### To Use
 * sumofseries.cpp
 
 #### Concepts Illustrated
@@ -22,7 +22,7 @@ Calculates the sum of a series using the formula 1/N+ 2/(N-1) + ... N/1, where N
 ## Magic Square Program
 Creates a square that is divided into smaller squares, each containing a number, such that the figures in each vertical, horizontal, and diagonal row add up to the same value.
 
-####To Use
+#### To Use
 * magicsquare.cpp
 
 #### Concepts Illustrated
@@ -32,7 +32,7 @@ Creates a square that is divided into smaller squares, each containing a number,
 This program will sort numbers from a given file in ascending order by using linear insertion sort. The elements of the array holding the sorted numbers will be shifted around every time a new number needs to be added to the array.
 This is a terribly ineffective sorting method, but was written to illustrate a few important learning concepts.
 
-####To Use
+#### To Use
 * insertionsort.cpp
 
 #### Concepts Illustrated
@@ -43,7 +43,7 @@ This is a terribly ineffective sorting method, but was written to illustrate a f
 ## Employee Class
 Simple program to track basic information of employees using classes
 
-####To Use
+#### To Use
 * employeeclass.cpp
 * employee.cpp
 * employee.h
@@ -58,7 +58,7 @@ Simple program to track basic information of employees using classes
 ## Bank Class
 Program that will make bank accounts of two types: savings and checkings. Accounts will be initialized with account number, name, balance and interest rate as required. User will be allowed to deposit money in, and withdraw money from any accounts. All account information will be displayed as requested.Similar to [Employee Class](#employee-class).
 
-####To Use
+#### To Use
 * bankclass.cpp
 * bank.cpp
 * bank.h
@@ -74,7 +74,7 @@ Program that will make bank accounts of two types: savings and checkings. Accoun
 ## Recursive Function
 Basic program which determines whether the user-entered string is a palindrome. 
 
-####To Use
+#### To Use
 * recursivefunction.cpp
 
 #### Concepts Illustrated
